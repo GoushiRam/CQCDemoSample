@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify user can purchase a phone successfully</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfb26b70-8a70-4766-bd8a-471b3259577e</testCaseGuid>
+</TestCaseEntity>
